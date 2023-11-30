@@ -18,7 +18,7 @@ const User = ({user}) => {
           </div>
         </div>
       </div>
-    </div>
+    </div> 
   )
 }
 
